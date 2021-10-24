@@ -1,3 +1,3 @@
-![Screenshot] (Exlore\image\Challenge.PNG)
+![alt](https://github.com/haojames/HackTheBox/blob/main/Exlore/image/Challenge.PNG)
 
 # Analysis
