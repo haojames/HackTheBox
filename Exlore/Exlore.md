@@ -14,6 +14,6 @@ Port **5555**: Android Debug Bridge (ADB).
 
 > https://www.trendmicro.com/en_us/research/18/g/open-adb-ports-being-exploited-to-spread-possible-satori-variant-in-android-devices.html
 
-Port **42135**: https://www.speedguide.net/port.php?port=42135 .
+Port **42135**: X.
 Port **59777**: ES File Explorer File Manager application for Android.
-Port **45181**: https://www.speedguide.net/port.php?port=45181 .
+Port **45181**: X.
